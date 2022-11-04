@@ -1,6 +1,7 @@
 # BreastCancerPrediction
 A Machine learning project that predicts breast cancer in patients upon analyzing the dataset using various ML algorithms.
-The dataset upon correlation is split into two parts named X and Y consisting or the dependent and non-independent values respectively.
+
+The dataset upon observing, reshaping and undergoing correlation is split into two parts named X and Y consisting or the dependent and non-independent values respectively.
 Upon this, the dataset is split into two part i.e the training and the testing part namely X_train, x_test , Y_train and Y_test .
 
 Feature Scaling of the data is done before the training phase.
